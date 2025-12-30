@@ -1,19 +1,22 @@
 # anki_flashcards
-
-Simple script for create anki flashcards from .txt file
+Simple script for create anki flashcards from .txt file.
 
 # Installation
 To run this script you need installed ruby ~> 3.3.5
 
 # Usage:
-1. Change "input.txt" to the valid input file name
-2. Change "korean_flashcards/test.csv" to the valid output path
-3. Run script -> ruby script_name.rb
+Run script -> ruby script_name.rb your_input.txt -o path_where_the_file_will_be_saved.csv
 
 # Requirements 
 Input file should contain data in format:
-back front(polish) front(english)
-남편  mąż	        husband
+BACK;FRONT;FRONT
+korean;polish;english
+남편;mąż;husband
+
+Or use a combination of other languages ​​you need
 
 # Korean flashcard catalogue
-This catalogue contains ready to use Korean sets
+This catalogue contains ready to import Korean sets
+
+# Topic Exam catalogue
+This catalogue contains words for Korean Topic exam
