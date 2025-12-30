@@ -1,5 +1,29 @@
-input_file = "input.txt"
-output_file = "korean_flashcards/pronouns_particles_and_practice_uestions.csv"
+require "optparse"
+
+options = { output: "output.csv" }
+
+parser = OptionParser.new do |opts|
+  opts.banner = "Usage: ruby script.rb INPUT_FILE -o OUTPUT_FILE"
+
+  opts.on("-o", "--output FILE", "Output CSV file") do |file|
+    options[:output] = file
+  end
+
+  opts.on("-h", "--help", "Show this help") do
+    puts opts
+    exit
+  end
+end
+
+parser.parse!
+
+input_file = ARGV[0]
+output_file = options[:output]
+
+if input_file.nil? || output_file.nil?
+  puts parser
+  exit 1
+end
 
 def sanitize(text)
   text.to_s.gsub(/"/, '""').strip
@@ -10,13 +34,11 @@ line_counter = 0
 valid_cards = 0
 
 File.open(output_file, "w:utf-8") do |csv|
-  csv.puts '"Front","Back"'
-  
   File.foreach(input_file, chomp: true) do |line|
     line_counter += 1
     next if line.empty? || line.strip.empty?
     
-    parts = line.split("\t")
+    parts = line.split(";", 3)
     
     if parts.size < 3
       warning = "Line #{line_counter}: '#{line.strip[0..50]}'..."
@@ -44,7 +66,7 @@ puts "Number of valid cards: #{valid_cards}"
 if skipped_lines.any?
   puts "\nWARNINGS - SKIPPED LINES (#{skipped_lines.size}):"
   skipped_lines.each { |warning| puts " • #{warning}" }
-  puts "Make sure these lines follow the format: korean\tpolish\tenglish"
+  puts "Make sure these lines follow the format: korean; polish; english"
 end
 
 puts "\nANKI IMPORT INSTRUCTIONS:"
