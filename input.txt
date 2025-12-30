@@ -1,57 +1,60 @@
-가족	rodzina	family
-부모	rodzice	parents
-부모님	rodzice (honoryfikatywnie)	parents (honorific)
-
-아버지	ojciec (formalnie)	father
-아빠	tata (potocznie)	dad
-어머니	matka (formalnie)	mother
-엄마	mama (potocznie)	mom
-
-형	starszy brat (dla mężczyzny)	older brother (for male)
-오빠	starszy brat (dla kobiety)	older brother (for female)
-누나	starsza siostra (dla mężczyzny)	older sister (for male)
-언니	starsza siostra (dla kobiety)	older sister (for female)
-남동생	młodszy brat	younger brother
-여동생	młodsza siostra	younger sister
-형제	bracia	brothers
-자매	siostry	sisters
-형제자매	rodzeństwo	siblings
-
-아들	syn	son
-딸	córka	daughter
-아이	dziecko	child
-쌍둥이	bliźniaki	twins
-
-할아버지	dziadek	grandfather
-할머니	babcia	grandmother
-외할아버지	dziadek (ze strony matki)	maternal grandfather
-외할머니	babcia (ze strony matki)	maternal grandmother
-
-삼촌	wujek (brat ojca lub matki)	uncle
-고모	siostra ojca	aunt (father’s sister)
-이모	siostra matki	aunt (mother’s sister)
-고모부	mąż siostry ojca	uncle-in-law (father’s side)
-이모부	mąż siostry matki	uncle-in-law (mother’s side)
-외삼촌	brat matki	maternal uncle
-작은아버지	młodszy brat ojca (żonaty)	younger uncle (father’s side)
-큰아버지	starszy brat ojca (żonaty)	older uncle (father’s side)
-작은어머니	żona młodszego brata ojca	younger uncle’s wife
-큰어머니	żona starszego brata ojca	older uncle’s wife
-
-사촌	kuzyn / kuzynka	cousin
-조카	siostrzeniec / bratanek	nephew
-조카딸	siostrzenica / bratanica	niece
-
-남편	mąż	husband
-아내	żona	wife
-부인	żona (honoryfikatywnie)	wife (honorific)
-신랑	pan młody	groom
-신부	panna młoda	bride
-시부모	teściowie (rodzice męża)	in-laws (husband’s parents)
-장인어른	teść (ojciec żony)	father-in-law (wife’s side)
-장모님	teściowa (matka żony)	mother-in-law (wife’s side)
-며느리	synowa	daughter-in-law
-사위	zięć	son-in-law
-
-가족사진	zdjęcie rodzinne	family photo
-가정	rodzina (jako dom, instytucja)	home / household
+명;osoba;a person
+산;góra;a mountain
+남자;mężczyzna, samiec;a man, male
+누가;kto;who
+세;trzy;three
+세;lat;year's old
+표현;wyrażenie;expression
+길;droga/sposób;a way
+지하철;metro;a subway
+일요일;niedziela;niedziela
+병원;szpital;a hospital
+눈;oko;an eye
+눈;śnieg;snow
+숙체;zadanie;an assignment
+방학;wakacje;a vacation
+반;połowa;half
+반;klasa;a klasa
+술;alkohol;alcohol
+컴퓨터;komputer;a computer
+사과;jabłko; an apple
+가지;rodzaj;a kind
+텔레비전;telewizor;a television
+꽃;kwiatek;a flower
+부모님;rodzice;parents
+위;na(czymś);on(something)
+달;miesiąc;a month
+질문;pytanie;a question
+층;podłoga;a floor
+기분;uczucie;feeling
+직원;personel;a staff
+극장;kino;a movie theater
+여름;lato;summer
+책상;biurko;a desk
+가게;sklep; a store
+아이;dziecko;a child
+불고기;bulgogi(jedzenie);bulgogi(food)
+물;woda;water
+비행기;samolot;an airplane
+키;wysokość;height
+지하철역;stacja metra;a subway station
+식사;posiłek;a meal
+은행;bank;a bank
+처음;po raz pierwszy;for the first time
+파티;impreza;a party
+약;lek/lekarstwo;medicine
+날;dzień;a day
+신문;gazeta;a newspaper
+감기;przeziębienie;a cold
+옆;obok/z boku;beside
+겨울;zima;winter
+택시;taksówka;a taxi
+수영;pływanie;swimming
+의사;lekarz;a doctor
+한번;raz/jeden raz;once
+공원;park;a park
+밤;noc;a night
+김치;kimchi(jedzenie);kimchi(food)
+마음;serce;heart
+카드;karta;a card
+아르바이트;praca na pół etatu;a part time job
