@@ -1,3 +1,103 @@
+씨;Pan / Pani;Mr. / Ms.
+진구;przyjaciel;a friend
+사람;osoba / ludzie;a person / people
+한국;Korea;Korea
+것;pojawić się / wydawać się;to appear / to seem
+집;dom;home
+시;godzina;o'clock
+오늘;dzisiaj;today
+안;w (czymś);in
+안;nie (nie powiedziałby);not (he would not tell)
+다음;następny;next
+일;praca;work
+일;jeden / numer jeden;one / no. 1
+일;dzień;a day
+지금;teraz;now
+영화;film;a movie
+시간;czas;time
+학교;a school;szkoła
+선생님;nauczyciel;a teacher
+책;książka;a book
+내일;jutro;tomorrow
+후;po / później;after
+우리;my / nasz;we / our
+분;ktoś;anybody
+음식;jedzenie;food
+한국어;Język koreański;Korean language
+전화;rozmowa telefoniczna;a call
+원;wony (pieniądze);wons (money)
+날씨;pogoda;weather
+주말;weekend;a weekend
+학생;uczeń;a student
+월;miesiąc;a month
+버스;autobus;a bus
+거녁;wieczór / kolacja;evening / dinner
+아침;poranek / śniadanie;morning / breakfast
+번;czas / numer;time / number
+생일;urodziny;a birthday
+개;pies;a dog
+개;kawałek;a piece
+단어;słowo;a word
+어머니;matka;a mother
+식당;restauracja;a restaurant
+회사;firma; a company
+전;przed / wcześniej;before
+이름;imię;a name
+이번;to;this
+과;dział;a department
+비;deszcz;rain
+요즈음;obecnie;nowadays
+앞;przed (czymś);in front of
+그림;obraz / rysunek;a painting / drawing
+둔;pieniądze;money
+방;pokój;a room
+선물;prezent;a present
+가방;torba; a bag
+말;słowa / mowa / wypowiedź;talking
+말;koń;a horse
+사진;zjęcie / fotografia;a photo / a picture
+얼마;jak;how
+오후;popołudnie;afternoon
+이야기;rozmowa;to talk
+아족;rodzina;a family
+밥;posiłek;a meal
+도서관;biblioteka;a library
+아버지;ojciec;a father
+년;rok;a year
+운동;ćwiczenia / sport;exercise / sport
+한국말;język koreański (mowa);Korean
+노래;piosenka;a song
+여자;kobieta;a woman / female
+시험;egzamin;an exam
+머리;głowa / włosy;head / hair
+소리;dźwięk;a sound
+펀지;list;a letter
+배;brzuch;stomach
+배;statek;a ship
+시장;rynek; a market
+여행용;na wycieczkę;for tour
+커피;kawa;coffee
+고향;miasto rodzinne;a hometwon
+때문;z powodu;because (of)
+손님;klient;a customer
+동생;młodsze rodzeństwo;a younger sibling
+살;ciężar;weight
+살;wiek;age
+교실;klasa (pomieszczenie);a classroom
+약속;spotkanie;an appointment
+백화점;dom towarowy;a department store
+나라;kraj;a country
+수업;lekcje;class
+점심;obiad;lunch
+곳;miejsce;a place
+동안;jak długo;(how) long
+주;tydzień;a week
+물건;towary;goods
+모두;wszystko;all
+대화;rozmowa;conversation
+공부;uczyć się;study
+제일;najbardziej;the most
+토요일;sobota;Saturday
 명;osoba;a person
 산;góra;a mountain
 남자;mężczyzna, samiec;a man, male
@@ -5,7 +105,7 @@
 세;trzy;three
 세;lat;year's old
 표현;wyrażenie;expression
-길;droga/sposób;a way
+길;droga / sposób;a way
 지하철;metro;a subway
 일요일;niedziela;niedziela
 병원;szpital;a hospital
@@ -42,19 +142,59 @@
 은행;bank;a bank
 처음;po raz pierwszy;for the first time
 파티;impreza;a party
-약;lek/lekarstwo;medicine
+약;lek / lekarstwo;medicine
 날;dzień;a day
 신문;gazeta;a newspaper
 감기;przeziębienie;a cold
-옆;obok/z boku;beside
+옆;obok / z boku;beside
 겨울;zima;winter
 택시;taksówka;a taxi
 수영;pływanie;swimming
 의사;lekarz;a doctor
-한번;raz/jeden raz;once
+한번;raz / jeden raz;once
 공원;park;a park
 밤;noc;a night
 김치;kimchi(jedzenie);kimchi(food)
 마음;serce;heart
 카드;karta;a card
 아르바이트;praca na pół etatu;a part time job
+대학교;uniwersytet;a university
+할아버지;dziadek;a grandfather
+비빔밥;bibimbap;bibimbap
+장소;miejsce;a place
+참;bardzo;very
+기차;pociąg;a train
+빵;chleb;bread
+글;pisanie;writing
+영어;język angielski;Ensligh language
+우체국;poczta;a post office
+전화번호;numer telefonu;a phone number
+번호;numer;a number
+어휘;słownictwo;vocabulary
+담배;papieros;a cigarette
+할머니;babcia;a grandmother
+문법;gramatyka;grammar
+근처;blisko;near / close
+생활;życie;a life
+아저씨;mężczyzna w średnim wieku;a middle-aged man
+월요일;poniedziałek;Monady
+하루;dzień;a day
+과일;owoc;fruit
+구두;buty;shoes
+바지;spodnie;pants
+바다;morze;the sea
+취미;hobby;a hobby
+옷;ubrania;clothes
+며칠;kilka dni;a few days
+잠;sen;a sleep
+문화;kultura;culture
+밖;poza / na zewnątrz;outside
+하숙집;pensjonat;a boarding house
+사고;wypadek;an accident
+금요일;piątek;Friday
+등산;wspinaczka górska;mountain climbing
+문;drzwi;a door
+값;cena;price
+발음;wymowa;pronunciation
+차;samochód;a car
+차;herbata;tea
