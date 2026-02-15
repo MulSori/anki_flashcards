@@ -23,7 +23,7 @@
 우리;my / nasz;we / our
 분;ktoś;anybody
 음식;jedzenie;food
-한국어;Język koreański;Korean language
+한국어;język koreański;Korean language
 전화;rozmowa telefoniczna;a call
 원;wony (pieniądze);wons (money)
 날씨;pogoda;weather
@@ -242,7 +242,7 @@
 신발;buty;shoes
 남편;mąż;a husband
 명사;rzeczownik;a noun
-가을;jesien;fall
+가을;jesień;fall
 쓰기;pisanie (czyność) / pismo;writing
 아래;pod (czymś);under
 차로;podjazd;a drive-way
@@ -347,4 +347,54 @@
 여권;paszport;a passport
 모음;samogłoska;a vowel
 잘못;błąd / źle;wrong
-게임;gra;a game
+게임;zabawa;a game (not computer game)
+기타;gitara;a guitar
+라면;makaron błyskawiczny;instant noodles
+박;noc;a night
+일본어;język japoński;Japanese language
+쪽;strona (np. w książce);a page
+쪽;strona (np. lewa strona);a side
+김치찌개;gulasz kimchi;kimchi stew
+성격;osobowość;personality
+노래방;karaoke;karaoke
+사거리;skrzyżowanie (dróg);intersection
+커피숍;kawiarnia;a coffee shop
+대학생;student;a college student
+완성;ukończenie;completion
+화가;malarz;a painter
+꿈;sen;a dream
+놀이;gra;a game
+냉장고;lodówka;a refrigerator
+연극;sztuka (teatr) / dramat;a play (theater)
+걱정;martwić się;worry
+점;punkty;points
+종이;papier;paper
+엄마;matka;a mother
+운전;jazda (samochodem);driving
+목표;cel (do osiągnięcia);a goal
+민속촌;wieś ludowa;a folk village
+받침;końcowa spółgłoska;a final consonant
+계속;kontynuacja;continuously
+대답;odpowiedź;an answer
+슈퍼마켓;supermarket;a supermarket
+이사;poruszający;moving
+정류장;przystanek;a stop
+활동;aktywność;an activity
+기침;kaszel;coughing
+남공생;młodszy brak;a younger brother
+소포;paczka;a package
+경치;sceneria;scenery
+여행사;biuro podróży;a travel agency
+직접;osobiście;in person
+고기;mięso;meat
+설명;wyjaśnienie;explanation
+침대;łóżko;a bed
+형용사;przymiotnik;an adjective
+주일;tydzień;a week
+통장;książeczka bankowa;a bankbook
+자신;pewność siebie;confidence
+수도;stolica państwa;capital
+운동장;plac zabaw;a playground
+자음;spółgłoska;a consonant
+휴대전화;telefon komórkowy;a cellular phone
+일기;pogoda;weather
