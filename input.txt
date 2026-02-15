@@ -198,153 +198,153 @@
 발음;wymowa;pronunciation
 차;samochód;a car
 차;herbata;tea
-의자;
-새;
-시계;
-혼자;
-계획;
-역;
-사전;
-오른쪽;
-우유;
-주인;
-장;
-사무실;
-번째;
-언니;
-생강;
-축구;
-인터넷;
-내용;
-호텔;
-우산;
-서점;
-냉면;
-휴가;
-아기;
-과제;
-완성하다;
-실례;
-결혼식;
-아주머니;
-요리;
-창문;
-옛날;
-회사원;
-건강;
-등;
-톄니스;
-방법;
-김;
-직업;
-왼쪽;
-봄;
-신발;
-남편;
-명사;
-가을;
-쓰기;
-아래;
-차로;
-치마;
-목;
-작년;
-회의;
-댁;
-청소;
-모자;
-한복;
-호;
-기숙사;
-다리;
-다리;
-말씀;
-색;
-연필;
-읽기;
-자전저;
-주스;
-이메일;
-도시;
-계절;
-손;
-수요일;
-몸;
-바람;
-외국;
-자동차;
-시내;
-빈칸;
-아파트;
-음악;
-공항;
-야구;
-교통;
-나이;
-병;
-이유;
-콜라;
-이제;
-가수;
-문제;
-자리;
-춤;
-맛;
-점원;
-그릇;
-공책;
-김밥;
-맥주;
-결혼;
-권;
-고앙이;
-태권도;
-건물;
-일주일;
-기본;
-오빠;
-볼펜;
-요일;
-피자;
-목요일;
-주소;
-운동화;
-안내;
-얼굴;
-오전;
-케이크;
-요리;
-팔;
-팔;
-나무;
-공연;
-전통;
-나중;
-학기;
-모임;
-정도;
-개월;
-누나;
-안경;
-화요일;
-설날;
-여동생;
-화장실;
-박물관;
-오랜만;
-그때;
-수영장;
-지갑;
-소개;
-지난주;
-사장;
-시청;
-피아노;
-농구;
-구경;
-기사;
-스키;
-여권;
-모음;
-잘못;
-게임;
+의자;krzesło;a chair
+새;nowy;new
+시계;zegarek;a watch
+혼자;sam;alone
+계획;plan;a plan
+역;stacja;a station
+사전;słownik;a dictionary
+오른쪽;prawidłowy;right
+우유;mleko;milk
+주인;właściciel;an owner
+장;kartka papieru;a sheet
+사무실;biuro;an office
+번째;-ty / -ta / -te (liczebniki np. piąty);-th (Ordinal numbers)
+언니;starsza siostra;an elder sister
+생강;myśl;thought
+축구;piłka nożna;soccer
+인터넷;internet;internet
+내용;treść / zawartość;content
+호텔;hotel;a hotel
+우산;parasol;an umbrella
+서점;księgarnia;a bookstore
+냉면;zimny makaron;cold noodles
+휴가;wakacje;a vacation
+아기;dziecko;a baby
+과제;zadanie;an assignment
+완성하다;ukończyć / zakończyć;to complete
+실례;przepraszam (przepraszam, gdzie jest...);excuse me
+결혼식;ceremonia ślubna;a wedding ceremony
+아주머니;kobieta w średnim wieku;a middle-aged woman
+요리;gotowanie;cooking
+창문;okno;a window
+옛날;stary (wiek);old
+회사원;pracownik biurowy;an office worker
+건강;zdrowie;health
+등;ranga;a rank
+톄니스;tenis;a tennis
+방법;metodad;a method
+김;wodorost;seaweed
+직업;praca;a job
+왼쪽;lewa strona / po lewej stronie;left
+봄;wiosna;spring
+신발;buty;shoes
+남편;mąż;a husband
+명사;rzeczownik;a noun
+가을;jesien;fall
+쓰기;pisanie (czyność) / pismo;writing
+아래;pod (czymś);under
+차로;podjazd;a drive-way
+치마;spódnica;a skirt
+목;szyja;a neck
+작년;w zeszłym roku;last year
+회의;spotkanie;a meeting
+댁;dom (honoryfikatywnie);a house (honorifics)
+청소;czyszczenie;cleaning
+모자;czapka;a hat
+한복;koreańskie ubranie tradycyjne;Korean traditional clothes
+호;numer pokoju;a room number
+기숙사;akademik / dormitorium;a dormitory
+다리;noga;a leg
+다리;most;a bridge
+말씀;słowo / mowa (honoryfikatywnie);speaking (honorifics)
+색;kolor;color
+연필;ołówek;a pencil
+읽기;czytanie;reading
+자전저;rower;a bicycle
+주스;sok;juice
+이메일;email;an email
+도시;miasto;a city
+계절;sezon;a season
+손;dłoń;a hand
+수요일;środa;Wednesday
+몸;ciało;a body
+바람;wiatr;wind
+외국;obcy kraj;a foreign country
+자동차;samochód / auto;a car
+시내;śródmieście;a downtown
+빈칸;puste miesce;a blank
+아파트;apartament / mieszkanie;an apartment
+음악;muzyka;music
+공항;lotnisko;an airport
+야구;baseball;a baseball
+교통;ruch drogowy;traffic
+나이;wiek;age
+병;butelka;a bottle
+이유;powód;a reason
+콜라;cola (napój);coke (drink)
+이제;teraz;now
+가수;piosenkarz;a singer
+문제;problem;a problem
+자리;miejsce / siedzenie;a seat
+춤;taniec;dancing
+맛;smak;taste
+점원;urzędnik;a clerk
+그릇;miska;a bowl
+공책;notatnik / zeszyt;a notebook
+김밥;kimbap (jedzenie);kimbap (food)
+맥주;piwo;beer
+결혼;małżeństwo;marriage
+권;tom;a volume
+고앙이;kot;a cat
+태권도;taekwondo;taekwondo
+건물;budynek;a building
+일주일;tydzień;a week
+기본;podstawowy;basics
+오빠;starszy brat;an elder brother
+볼펜;długopis;a ballpoint pen
+요일;dzień tygodnia;a day of the week
+피자;pizza;pizza
+목요일;czwartek;Thursday
+주소;adres;an address
+운동화;adidasy;sneakers
+안내;informacja / instruktaż;guidance
+얼굴;twarz;face
+오전;rano;morning
+케이크;ciasto;a cake
+요리;kuchnia jako sposób gotowania;cuisine
+팔;ramię;an arm
+팔;osiem;eight
+나무;drzewo;a tree
+공연;występ;a performance
+전통;tradycja;tradition
+나중;później;later
+학기;semestr;a semester
+모임;spotkanie;a meeting
+정도;o (czymś);about
+개월;misiąc;a month
+누나;starsza siostra;an elder sister
+안경;okulary;glasses
+화요일;wtorek;Tuesday
+설날;księżycowy nowy rok;the Lunar new Year's Day
+여동생;młodsza siostra;a younger sister
+화장실;toaleta;a toilet
+박물관;muzeum;a museum
+오랜만;długi czas;a long time
+그때;ówcześnie;at that time
+수영장;basen;a swimming pool
+지갑;portfel;a wallet
+소개;przedstawienie (np. kogoś);introduction
+지난주;w zeszły weekend;last weekend
+사장;prezydent;a president
+시청;ratusz;a city hall
+피아노;fortepian;a piano
+농구;koszykówka;a basketball
+구경;zwiedzanie / oglądanie;sightseeing
+기사;kierowca;a driver
+스키;jeździć na nartach;ski
+여권;paszport;a passport
+모음;samogłoska;a vowel
+잘못;błąd / źle;wrong
+게임;gra;a game
